@@ -41,7 +41,7 @@ this is to run, for example,
 Make sure you have a package-lock and an up-to-date install:
 
 ```bash
-$ cd ./my/npm/project
+$ cd ./my/npm/projectm
 $ npm install
 added 154 packages in 10s
 $ ls | grep package-lock
